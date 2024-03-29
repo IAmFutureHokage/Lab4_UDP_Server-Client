@@ -1,0 +1,2 @@
+port 12344
+database_path database/data.txt

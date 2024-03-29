@@ -9,6 +9,4 @@ typedef struct {
 Domain* createDomain(const char* name, const char* ipAddress);
 void destroyDomain(Domain* domain);
 
-int validateDomain(const Domain* domain);
-
 #endif

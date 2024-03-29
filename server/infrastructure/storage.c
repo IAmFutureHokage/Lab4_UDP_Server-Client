@@ -27,7 +27,7 @@ void destroyStorage(Storage* storage) {
 Domain* getDomain(Storage* storage, const char* name) {
     FILE* file = fopen(storage->filePath, "r");
     if (!file) {
-        perror("Ошибка при открытии файла");
+        perror("err opening file");
         return NULL;
     }
 
