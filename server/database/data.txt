@@ -1,0 +1,6 @@
+google.com 142.250.180.78
+yandex.ru 5.255.255.60
+example.com 93.184.216.34
+openai.com 54.175.83.134
+reddit.com 151.101.65.140
+wikipedia.org 208.80.154.224
