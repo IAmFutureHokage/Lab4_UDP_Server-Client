@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "xlocmes": "c",
+        "system_error": "c",
+        "xlocale": "c"
+    }
+}
